@@ -1,4 +1,4 @@
-# FE7*DevCourse_2팀*전공무관
+# FE7*DevCourse_2팀_전공무관
 
 const 변수 = todo.addTodo("추가할 할 일");
 
